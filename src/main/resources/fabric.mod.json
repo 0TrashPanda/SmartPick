@@ -28,6 +28,7 @@
 		"java": ">=21"
 	},
 	"suggests": {
-		"inventoryprofilesnext": "*"
+		"inventoryprofilesnext": "*",
+		"libipn": "*"
 	}
 }
