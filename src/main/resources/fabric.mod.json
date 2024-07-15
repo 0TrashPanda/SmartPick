@@ -8,8 +8,8 @@
 		"0TrashPanda"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/0TrashPanda/SmartPick",
+		"sources": "https://github.com/0TrashPanda/SmartPick"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/smart-pick/icon.png",
