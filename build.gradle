@@ -47,6 +47,7 @@ dependencies {
 
 	// implementation("org.anti_ad.mc:InventoryProfilesNext-fabric-1.21:2.0.2")
 	modCompileOnly("maven.modrinth:inventory-profiles-next:fabric-${project.inventory_profiles_next}") {transitive = false}
+	modCompileOnly("org.anti_ad.mc:libIPN-fabric-1.21:6.0.0")
 
 
 	}
